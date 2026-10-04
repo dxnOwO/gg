@@ -10,25 +10,25 @@
   ],
   "semanticColors": {
     "BACKGROUND_ACCENT": [
-      "#1DAD00"
+      "#000000"
     ],
     "BACKGROUND_BRAND": [
-      "#1DAD00"
+      "#000000"
     ],
     "MENTION_FOREGROUND": [
-      "#1DAD00"
+      "#000000"
     ],
     "TEXT_LINK": [
-      "#1DAD00"
+      "#000000"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#1DAD00"
+      "#000000"
     ],
     "INTERACTIVE_HOVER": [
       "#000000"
     ],
     "CHANNELS_DEFAULT": [
-      "#029400"
+      "#000000"
     ],
     "CHANNEL_ICON": [
       "#029400"
@@ -181,25 +181,25 @@
       "rgba(170,0,0,0.1)"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#FFFFFF0D"
+      "#00000000"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#FFFFFF12"
+      "#00000000"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#FFFFFF14"
+      "#00000000"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#FFFFFF0F"
+      "#00000000"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#FFFFFF1A"
+      "#00000000"
     ],
     "BACKGROUND_MODIFIER_ACCEPT": [
-      "#43b58133"
+      "#00000000"
     ],
     "BACKGROUND_MODIFIER_ACCEPT_HOVER": [
-      "#43b5814d"
+      "#00000000"
     ],
     "BACKGROUND_MOD_MUTED": [
       "#121214"
